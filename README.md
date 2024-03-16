@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently studying ** Btech ECE, At KL University**<br>🌱 I’m interested in ** Learning, Getting Experience **<br>📝 I am good at ** Projects, Web Developing, and Coding Skills**<br>📫To reach me: satvikpeddisetty20@gmail.com<br>2200040029@kluniversity.in<br>Connect with Me!<br>https://www.instagram.com/iamsatvik20/<br>https://www.linkedin.com/in/satvik-p-363903284/</p>
+<p align="left">🔭 I’m currently studying ** Btech ECE, At KL University**<br>🌱 I’m interested in ** Learning, Getting Experience **<br>📝 I am good at ** Projects, Web Developing, and Coding Skills**<br>📫To reach me: satvikpeddisetty20@gmail.com<br>2200040029@kluniversity.in<br>Connect with Me!<br>https://www.instagram.com/iamsatvik20/<br>https://www.linkedin.com/in/peddisetty-venkat-satvik-363903284//</p>
 
 ###
 
@@ -57,7 +57,7 @@
   <a href="https://www.facebook.com/profile.php?id=100094118957923" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/satvik-p-363903284/" target="_blank">
+  <a href="https://www.linkedin.com/in/peddisetty-venkat-satvik-363903284/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
